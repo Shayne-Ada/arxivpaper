@@ -1,5 +1,5 @@
 site_title = "Arxiv Speech Papers"
-limit_days = 7
+limit_days = 15
 cache_url = "https://Shayne-Ada.github.io/arxivpaper/cache.json"
 
 [[sources]]
